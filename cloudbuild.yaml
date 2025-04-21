@@ -2,7 +2,7 @@ steps:
   - name: busybox
     args: ["true"]  
   - name: 'bash'
-    args: ['echo', 'hi!']
+    args: ['echo', 'hi!!!!']
 options:
   requested_verify_option: VERIFIED
   defaultLogsBucketBehavior: REGIONAL_USER_OWNED_BUCKET
